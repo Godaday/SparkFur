@@ -1,0 +1,1 @@
+F:\source\SparkFur\SparkFur.Desktop\SparkFur.Desktop.csproj;x64

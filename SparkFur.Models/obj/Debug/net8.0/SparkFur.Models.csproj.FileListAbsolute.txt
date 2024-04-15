@@ -1,0 +1,11 @@
+F:\source\SparkFur\SparkFur.Models\bin\Debug\net8.0\SparkFur.Models.deps.json
+F:\source\SparkFur\SparkFur.Models\bin\Debug\net8.0\SparkFur.Models.dll
+F:\source\SparkFur\SparkFur.Models\bin\Debug\net8.0\SparkFur.Models.pdb
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\SparkFur.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\SparkFur.Models.AssemblyInfoInputs.cache
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\SparkFur.Models.AssemblyInfo.cs
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\SparkFur.Models.csproj.CoreCompileInputs.cache
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\SparkFur.Models.dll
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\refint\SparkFur.Models.dll
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\SparkFur.Models.pdb
+F:\source\SparkFur\SparkFur.Models\obj\Debug\net8.0\ref\SparkFur.Models.dll

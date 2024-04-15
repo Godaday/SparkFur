@@ -1,0 +1,17 @@
+F:\source\SparkFur\SparkFur.Core\bin\Debug\net8.0-windows\SparkFur.Core.deps.json
+F:\source\SparkFur\SparkFur.Core\bin\Debug\net8.0-windows\SparkFur.Core.dll
+F:\source\SparkFur\SparkFur.Core\bin\Debug\net8.0-windows\SparkFur.Core.pdb
+F:\source\SparkFur\SparkFur.Core\bin\Debug\net8.0-windows\SparkFur.Infrastructure.dll
+F:\source\SparkFur\SparkFur.Core\bin\Debug\net8.0-windows\SparkFur.Models.dll
+F:\source\SparkFur\SparkFur.Core\bin\Debug\net8.0-windows\SparkFur.Infrastructure.pdb
+F:\source\SparkFur\SparkFur.Core\bin\Debug\net8.0-windows\SparkFur.Models.pdb
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.Core.csproj.AssemblyReference.cache
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.Core.AssemblyInfoInputs.cache
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.Core.AssemblyInfo.cs
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.Core.csproj.CoreCompileInputs.cache
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.11A99890.Up2Date
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.Core.dll
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\refint\SparkFur.Core.dll
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\SparkFur.Core.pdb
+F:\source\SparkFur\SparkFur.Core\obj\Debug\net8.0-windows\ref\SparkFur.Core.dll

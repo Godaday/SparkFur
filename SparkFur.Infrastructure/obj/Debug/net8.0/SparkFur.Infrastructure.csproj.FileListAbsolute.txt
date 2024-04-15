@@ -1,0 +1,15 @@
+F:\source\SparkFur\SparkFur.Infrastructure\bin\Debug\net8.0\SparkFur.Infrastructure.deps.json
+F:\source\SparkFur\SparkFur.Infrastructure\bin\Debug\net8.0\SparkFur.Infrastructure.dll
+F:\source\SparkFur\SparkFur.Infrastructure\bin\Debug\net8.0\SparkFur.Infrastructure.pdb
+F:\source\SparkFur\SparkFur.Infrastructure\bin\Debug\net8.0\SparkFur.Models.dll
+F:\source\SparkFur\SparkFur.Infrastructure\bin\Debug\net8.0\SparkFur.Models.pdb
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.Infrastructure.csproj.AssemblyReference.cache
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.Infrastructure.AssemblyInfoInputs.cache
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.Infrastructure.AssemblyInfo.cs
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.Infrastructure.csproj.CoreCompileInputs.cache
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.6E35EB4A.Up2Date
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.Infrastructure.dll
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\refint\SparkFur.Infrastructure.dll
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\SparkFur.Infrastructure.pdb
+F:\source\SparkFur\SparkFur.Infrastructure\obj\Debug\net8.0\ref\SparkFur.Infrastructure.dll

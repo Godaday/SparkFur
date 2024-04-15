@@ -1,0 +1,11 @@
+F:\source\SparkFur\SparkFur.ThirdParty\bin\Debug\net8.0\SparkFur.ThirdParty.deps.json
+F:\source\SparkFur\SparkFur.ThirdParty\bin\Debug\net8.0\SparkFur.ThirdParty.dll
+F:\source\SparkFur\SparkFur.ThirdParty\bin\Debug\net8.0\SparkFur.ThirdParty.pdb
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\SparkFur.ThirdParty.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\SparkFur.ThirdParty.AssemblyInfoInputs.cache
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\SparkFur.ThirdParty.AssemblyInfo.cs
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\SparkFur.ThirdParty.csproj.CoreCompileInputs.cache
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\SparkFur.ThirdParty.dll
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\refint\SparkFur.ThirdParty.dll
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\SparkFur.ThirdParty.pdb
+F:\source\SparkFur\SparkFur.ThirdParty\obj\Debug\net8.0\ref\SparkFur.ThirdParty.dll

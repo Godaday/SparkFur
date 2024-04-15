@@ -1,0 +1,578 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\source\\SparkFur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\dbcontent\\sparkfurdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\dbcontent\\sparkfurdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|f:\\source\\sparkfur\\sparkfur.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|solutionrelative:sparkfur.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|f:\\source\\sparkfur\\sparkfur.models\\entitys\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|solutionrelative:sparkfur.models\\entitys\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|f:\\source\\sparkfur\\sparkfur.models\\entitys\\systemlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|solutionrelative:sparkfur.models\\entitys\\systemlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|f:\\source\\sparkfur\\sparkfur.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|solutionrelative:sparkfur.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|f:\\source\\sparkfur\\sparkfur.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|solutionrelative:sparkfur.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\services\\systemlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\services\\systemlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|f:\\source\\sparkfur\\sparkfur.api\\sparkfur.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|solutionrelative:sparkfur.api\\sparkfur.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|f:\\source\\sparkfur\\sparkfur.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|solutionrelative:sparkfur.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Godaday\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\sparkfur.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\sparkfur.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\sparkfur.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\sparkfur.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\sparkfur.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\sparkfur.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\interfaces\\isystemlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\interfaces\\isystemlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\repositorys\\logrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\repositorys\\logrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\interfaces\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\interfaces\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|f:\\source\\sparkfur\\sparkfur.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|solutionrelative:sparkfur.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|f:\\source\\sparkfur\\sparkfur.api\\sparkfur.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4F13B7E1-BD33-4A03-A6F6-EC1C7D6D4A9E}|SparkFur.API\\SparkFur.API.csproj|solutionrelative:sparkfur.api\\sparkfur.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\repositorys\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\repositorys\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|f:\\source\\sparkfur\\sparkfur.core\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8E2A7-64D7-4E4E-8E4B-3AA0EE7A81BC}|SparkFur.Core\\SparkFur.Core.csproj|solutionrelative:sparkfur.core\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\repositorys\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\repositorys\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|f:\\source\\sparkfur\\sparkfur.infrastructure\\interfaces\\iuserrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1740AAF-A2E6-442A-B953-A2C46521582A}|SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj|solutionrelative:sparkfur.infrastructure\\interfaces\\iuserrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|f:\\source\\sparkfur\\sparkfur.models\\enums\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|solutionrelative:sparkfur.models\\enums\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|f:\\source\\sparkfur\\sparkfur.models\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B78F4F-04D6-4C12-9C87-F3990AC4826A}|SparkFur.Models\\SparkFur.Models.csproj|solutionrelative:sparkfur.models\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11002A18-88F7-462E-9D16-354FCEE16180}|SparkFur.ThirdParty\\SparkFur.ThirdParty.csproj|f:\\source\\sparkfur\\sparkfur.thirdparty\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11002A18-88F7-462E-9D16-354FCEE16180}|SparkFur.ThirdParty\\SparkFur.ThirdParty.csproj|solutionrelative:sparkfur.thirdparty\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72AA947-8573-495C-98FA-23B2039FA37A}|SparkFur.Web\\SparkFur.Web.csproj|F:\\source\\SparkFur\\sparkfur.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72AA947-8573-495C-98FA-23B2039FA37A}|SparkFur.Web\\SparkFur.Web.csproj|solutionrelative:sparkfur.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SparkFur.API\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SparkFur.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:26:59.732Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SparkFurDbContext.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\DbContent\\SparkFurDbContext.cs",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\DbContent\\SparkFurDbContext.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\DbContent\\SparkFurDbContext.cs",
+              "RelativeToolTip": "SparkFur.Infrastructure\\DbContent\\SparkFurDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvw0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:40:24.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SparkFur.Core",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\SparkFur.Core.csproj",
+              "RelativeDocumentMoniker": "SparkFur.Core\\SparkFur.Core.csproj",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\SparkFur.Core.csproj",
+              "RelativeToolTip": "SparkFur.Core\\SparkFur.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T08:02:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.API\\Program.cs",
+              "RelativeDocumentMoniker": "SparkFur.API\\Program.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.API\\Program.cs",
+              "RelativeToolTip": "SparkFur.API\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:32:56.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Services\\UserService.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "SparkFur.Core\\Services\\UserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:08:25.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "SparkFur.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA2wCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:49:59.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Models\\Entitys\\User.cs",
+              "RelativeDocumentMoniker": "SparkFur.Models\\Entitys\\User.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Models\\Entitys\\User.cs",
+              "RelativeToolTip": "SparkFur.Models\\Entitys\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:07:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemLog.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Models\\Entitys\\SystemLog.cs",
+              "RelativeDocumentMoniker": "SparkFur.Models\\Entitys\\SystemLog.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Models\\Entitys\\SystemLog.cs",
+              "RelativeToolTip": "SparkFur.Models\\Entitys\\SystemLog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:13:04.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Services\\BaseService.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\BaseService.cs",
+              "RelativeToolTip": "SparkFur.Core\\Services\\BaseService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:27:23.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\IBaseService.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Interfaces\\IBaseService.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\IBaseService.cs",
+              "RelativeToolTip": "SparkFur.Core\\Interfaces\\IBaseService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:39:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SparkFur.API\\appsettings.json",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.API\\appsettings.json",
+              "RelativeToolTip": "SparkFur.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T08:15:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SparkFur.Infrastructure",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj",
+              "RelativeToolTip": "SparkFur.Infrastructure\\SparkFur.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T08:03:09.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\Godaday\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\Godaday\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAnwNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-15T08:19:29.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SystemLogService.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\SystemLogService.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Services\\SystemLogService.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\SystemLogService.cs",
+              "RelativeToolTip": "SparkFur.Core\\Services\\SystemLogService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:43:10.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SparkFur.API",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.API\\SparkFur.API.csproj",
+              "RelativeDocumentMoniker": "SparkFur.API\\SparkFur.API.csproj",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.API\\SparkFur.API.csproj",
+              "RelativeToolTip": "SparkFur.API\\SparkFur.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T08:20:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.API\\Dockerfile",
+              "RelativeDocumentMoniker": "SparkFur.API\\Dockerfile",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.API\\Dockerfile",
+              "RelativeToolTip": "SparkFur.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T08:20:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAnwIwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-15T08:01:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SparkFur.Core",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\SparkFur.Core.csproj",
+              "RelativeDocumentMoniker": "SparkFur.Core\\SparkFur.Core.csproj",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\SparkFur.Core.csproj",
+              "RelativeToolTip": "SparkFur.Core\\SparkFur.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T07:31:50.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISystemLogService.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\ISystemLogService.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Interfaces\\ISystemLogService.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\ISystemLogService.cs",
+              "RelativeToolTip": "SparkFur.Core\\Interfaces\\ISystemLogService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:06:52.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogRepository .cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Repositorys\\LogRepository .cs",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\Repositorys\\LogRepository .cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Repositorys\\LogRepository .cs",
+              "RelativeToolTip": "SparkFur.Infrastructure\\Repositorys\\LogRepository .cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:16:58.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Interfaces\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\Interfaces\\ILogRepository.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Interfaces\\ILogRepository.cs",
+              "RelativeToolTip": "SparkFur.Infrastructure\\Interfaces\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:15:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "SparkFur.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "SparkFur.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:36:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SparkFur.API",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.API\\SparkFur.API.csproj",
+              "RelativeDocumentMoniker": "SparkFur.API\\SparkFur.API.csproj",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.API\\SparkFur.API.csproj",
+              "RelativeToolTip": "SparkFur.API\\SparkFur.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T07:30:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "SparkFur.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:05:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Services\\UnitOfWork.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "SparkFur.Core\\Services\\UnitOfWork.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwGQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:31:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository .cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Interfaces\\IUserRepository .cs",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\Interfaces\\IUserRepository .cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Interfaces\\IUserRepository .cs",
+              "RelativeToolTip": "SparkFur.Infrastructure\\Interfaces\\IUserRepository .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:16:28.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Repositorys\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\Repositorys\\BaseRepository.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Repositorys\\BaseRepository.cs",
+              "RelativeToolTip": "SparkFur.Infrastructure\\Repositorys\\BaseRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:55:07.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SparkFur.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "SparkFur.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:26:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository .cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Repositorys\\UserRepository .cs",
+              "RelativeDocumentMoniker": "SparkFur.Infrastructure\\Repositorys\\UserRepository .cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Infrastructure\\Repositorys\\UserRepository .cs",
+              "RelativeToolTip": "SparkFur.Infrastructure\\Repositorys\\UserRepository .cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvw4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:17:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LogType.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Models\\Enums\\LogType.cs",
+              "RelativeDocumentMoniker": "SparkFur.Models\\Enums\\LogType.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Models\\Enums\\LogType.cs",
+              "RelativeToolTip": "SparkFur.Models\\Enums\\LogType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:06:35.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Models\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "SparkFur.Models\\Enums\\UserType.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Models\\Enums\\UserType.cs",
+              "RelativeToolTip": "SparkFur.Models\\Enums\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:06:04.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.ThirdParty\\Class1.cs",
+              "RelativeDocumentMoniker": "SparkFur.ThirdParty\\Class1.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.ThirdParty\\Class1.cs",
+              "RelativeToolTip": "SparkFur.ThirdParty\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:13:01.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\source\\SparkFur\\SparkFur.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SparkFur.Web\\Program.cs",
+              "ToolTip": "F:\\source\\SparkFur\\SparkFur.Web\\Program.cs",
+              "RelativeToolTip": "SparkFur.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:12:15.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
